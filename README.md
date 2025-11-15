@@ -3,7 +3,7 @@
 
 <!-- Typing Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Mark+Rodrigues;Welcome+to+my+GitHub!&center=true&size=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Mark+Rodrigues;Welcome+to+my+GitHub!&center=true&size=30">
 </h1>
 
 <!-- Banner Section -->
