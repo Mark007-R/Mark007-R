@@ -3,7 +3,7 @@
 
 <!-- Typing Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Mark+Rodrigues;Welcome+to+my+GitHub!&center=true&size=40">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Mark+Rodrigues;Welcome+to+my+GitHub!&center=true&size=50">
 </h1>
 
 <!-- Banner Section -->
@@ -16,11 +16,6 @@
     <p align="left">
       I'm a Data Science Enthusiast passionate about building intelligent, scalable applications—from AI Agents and RAG systems to finance dashboards, stock predictors, and NLP projects.<br><br>
       I'm always learning, improving, and developing real-world solutions.<br><br>
-
-      📫 Reach me at:  
-      <b>markrodrigues@example.com</b>  
-      <a href="https://www.linkedin.com/in/markrodrigues">LinkedIn</a>
-    </p>
   </div>
 </div>
 
@@ -61,7 +56,7 @@
 
 ## 🛠️ Tools & Technologies I Use
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,flask,html,css,aws,git,github,mysql,sql,vscode,jupyter" />
+  <img src="https://skillicons.dev/icons?i=py,flask,html,css,aws,git,github,mysql,vscode,jupyter" />
 </p>
 
 ---
