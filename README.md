@@ -1,107 +1,139 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=markrodrigues&label=Profile%20views&color=0e75b6&style=flat">
+<div align="center">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Mark+Rodrigues;Full-Stack+Developer+|+Data+Scientist;Nice+to+meet+you!&center=true&size=28">
-</h1>
+![Profile Views](https://komarev.com/ghpvc/?username=markrodrigues&label=Profile%20views&color=0e75b6&style=flat)
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <img align="right" src="https://github.com/mahdid-lilia/mahdid-lilia/blob/main/Exploring%20the%20Space%20of%20Data%20Science%20and%20Artificial%20Intelligence.gif" width="300">
-  </div>
-  <div style="flex: 2;">
-    <p align="left">
-      I am a passionate Full-Stack Developer & Data Scientist who enjoys building real-world applications using Python, Flask, Machine Learning, Deep Learning, and LLM-based systems.  
-      <br><br>
-      I love working on **RAG systems**, **LLM tools**, **stock prediction apps**, **finance dashboards**, and **smart data-driven products**.
-      <br><br>
-      📫 Reach me at: <a href="mailto:markrod.official@gmail.com">markrod.official@gmail.com</a>  
-      🔗 <a href="https://www.linkedin.com/in/mark-rodrigues-507223266/" target="_blank">LinkedIn</a>
-    </p>
-  </div>
+# 👋 Hello, I'm Mark Rodrigues
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer+💻;Data+Scientist+📊;AI+%26+ML+Enthusiast+🤖;Building+Smart+Solutions+🚀&center=true&width=500&height=50&color=58A6FF&vCenter=true&size=20)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-rodrigues-507223266/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markrod.official@gmail.com)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+
 </div>
 
 ---
 
-### 🌐 Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/mark-rodrigues-507223266/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-<a href="https://leetcode.com/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
-</a>
-<a href="https://discord.com" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"/>
-</a>
-</p>
+## 🚀 About Me
+
+```python
+class MarkRodrigues:
+    def __init__(self):
+        self.role = "Full-Stack Developer & Data Scientist"
+        self.location = "🌍 Earth"
+        self.passions = ["AI/ML", "RAG Systems", "Financial Tech", "Building Products"]
+        self.currently_working_on = [
+            "LLM-powered RAG applications",
+            "Stock prediction systems",
+            "Smart finance dashboards"
+        ]
+        
+    def get_tech_stack(self):
+        return {
+            "languages": ["Python", "JavaScript", "SQL"],
+            "frameworks": ["Flask", "TensorFlow", "PyTorch"],
+            "databases": ["MySQL", "FAISS", "Vector DBs"],
+            "tools": ["Docker", "Git", "Linux"]
+        }
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together 🚀")
+
+me = MarkRodrigues()
+me.say_hi()
+```
 
 ---
 
-## ⚡ My Tech Stack
-### 🚀 Languages & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=python,flask,js,html,css,bootstrap,mysql,git,github,linux" />
-</p>
+## 💼 Tech Stack
 
-### 🧠 Machine Learning / Deep Learning / AI
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-</p>
+<div align="center">
 
----
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## 🔥 Featured Projects
+### AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 📌 **1. RAG-based Chat System with Custom Knowledge Base**
-LLM-powered Retrieval Augmented Generation (RAG) system using:
-- Embeddings (Sentence Transformers)
-- FAISS vector database  
-- Flask backend  
-- Chat UI with streaming responses  
-- Supports PDFs, text, websites ingestion  
+### Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 📌 **2. Multi-Page Stock Prediction App (LSTM + yFinance + Plotly)**
-Features:
-- LSTM model for forecasting  
-- Historical analysis  
-- Correlation dashboard  
-- Streamlit → Flask conversion  
-- Fully modular ML & plotting pipeline  
-
-### 📌 **3. Smart Finance Tracking Dashboard (Flask + MySQL)**
-- CRUD for transactions  
-- Investment recommendations  
-- Recurring deposits, bonds, NPS logic  
-- Authentication system (login/signup)  
-- Beautiful UI with charts  
-
-### 📌 **4. PDF Bill Extractor (Python + Poppler + Flask)**
-- Parses bills into MySQL  
-- Table extraction & classification  
-- Clean UI for uploading & viewing  
+</div>
 
 ---
 
-## 📊 Stats
+## 🎯 Featured Projects
 
-<p align="center">
-  <img width="390" src="https://streak-stats.demolab.com/?user=markrodrigues&theme=react&border=61dafb&hide_border=true"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=markrodrigues&show_icons=true&theme=react&hide_border=true"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markrodrigues&layout=compact&theme=react&hide_border=true"/>
-</p>
+| 🔥 Project | 📝 Description | 🛠️ Tech Stack |
+|:-----------|:---------------|:---------------|
+| **🤖 RAG Chat System** | LLM-powered chat with custom knowledge base, streaming responses, and multi-source ingestion | `Sentence Transformers` `FAISS` `Flask` `OpenAI` |
+| **📈 Stock Prediction App** | Multi-page forecasting system with LSTM models and interactive dashboards | `LSTM` `yFinance` `Plotly` `Streamlit` `Flask` |
+| **💰 Finance Dashboard** | Smart tracking with investment recommendations, recurring deposits & NPS logic | `Flask` `MySQL` `Chart.js` `Authentication` |
+| **📄 PDF Bill Extractor** | Intelligent bill parser with table extraction and classification | `Python` `Poppler` `Flask` `MySQL` |
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=markrodrigues&theme=react-dark&hide_border=true" width="100%"/>
-</p>
+</div>
 
 ---
 
-<details align="center">
-  <summary>🔎 Show More</summary>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=markrodrigues&theme=onedark" />
-</details>
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=markrodrigues&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=markrodrigues&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markrodrigues&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=markrodrigues&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![trophy](https://github-profile-trophy.vercel.app/?username=markrodrigues&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect and Build Something Amazing!
+
+**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
