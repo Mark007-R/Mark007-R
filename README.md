@@ -9,7 +9,7 @@
 <!-- Banner Section -->
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <img align="right" src="https://github.com/mahdid-lilia/mahdid-lilia/blob/main/Exploring%20the%20Space%20of%20Data%20Science%20and%20Artificial%20Intelligence.gif" width="300">
+    <img align="right" src="https://github.com/mahdid-lilia/mahdid-lilia/blob/main/Exploring%20the%20Space%20of%20Data%20Science%20and%20Artificial%20Intelligence.gif" width="250">
   </div>
   <div style="flex: 2;">
     <p align="left">
