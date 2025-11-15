@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=markrodrigues&label=Profile%20views&color=0e75b6&style=flat">
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mark+Rodrigues....;Computer+Engineering+Student;Data+Science+%26+AI+Enthusiast;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋; Mark+Rodrigues....;Data+Science+%26+AI+Enthusiast;Nice+to+meet+you!&center=true&size=30">
 </h1>
 
 <div style="display: flex; align-items: center;">
