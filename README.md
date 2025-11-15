@@ -1,9 +1,9 @@
 <!-- Profile Views -->
-<img align="right" src="https://komarev.com/ghpvc/?username=Mark007-R&label=Profile%20views&color=0e75b6&style=flat">
+<img align="right" src="https://komarev.com/ghpvc/?username=Mark007-R&label=Profile%20views&color=1DB954&style=flat">
 
 <!-- Typing Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Mark+Rodrigues;Welcome+to+my+GitHub!&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Mark+Rodrigues;Welcome+to+my+GitHub!&center=true&size=30&color=1DB954">
 </h1>
 
 <!-- Banner Section -->
@@ -11,11 +11,11 @@
   <div style="flex: 1;">
     <img align="right" src="https://github.com/mahdid-lilia/mahdid-lilia/blob/main/Exploring%20the%20Space%20of%20Data%20Science%20and%20Artificial%20Intelligence.gif" width="300">
   </div>
-
   <div style="flex: 2;">
     <p align="left">
       I'm a Data Science Enthusiast passionate about building intelligent, scalable applications—from AI Agents and RAG systems to finance dashboards, stock predictors, and NLP projects.<br><br>
       I'm always learning, improving, and developing real-world solutions.<br><br>
+    </p>
   </div>
 </div>
 
@@ -24,6 +24,7 @@
 ---
 
 ## 🚀 Connect With Me
+
 <p align="left">
 <a href="https://github.com/Mark007-R" target="_blank"><img height="30" src="https://skillicons.dev/icons?i=github"></a>
 <a href="https://www.linkedin.com/in/markrodrigues07" target="_blank"><img height="30" src="https://skillicons.dev/icons?i=linkedin"></a>
@@ -37,24 +38,26 @@
 <div align="center">
 
 <!-- Main Stats -->
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mark007-R&show_icons=true&theme=react&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mark007-R&show_icons=true&theme=dark&hide_border=true&bg_color=191414&title_color=1DB954&icon_color=1DB954&text_color=FFFFFF&border_color=1DB954" />
 
 <!-- Streak -->
-<img width="48%" src="https://streak-stats.demolab.com/?user=Mark007-R&theme=react&hide_border=true" />
+<img width="48%" src="https://streak-stats.demolab.com/?user=Mark007-R&theme=dark&hide_border=true&background=191414&ring=1DB954&fire=1DB954&currStreakLabel=1DB954&sideLabels=1DB954&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B3B3B3&border=1DB954" />
 
 <!-- Top Languages (Jupyter Hidden) -->
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark007-R&layout=compact&hide=jupyter%20notebook&theme=react&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark007-R&layout=compact&hide=jupyter%20notebook&theme=dark&hide_border=true&bg_color=191414&title_color=1DB954&text_color=FFFFFF&border_color=1DB954" />
 
 </div>
 
 ---
 
 ## 📊 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mark007-R&theme=react-dark&hide_border=true" width="100%">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mark007-R&bg_color=191414&color=1DB954&line=1DB954&point=FFFFFF&area=true&hide_border=true&area_color=1DB954" width="100%">
 
 ---
 
 ## 🛠️ Tools & Technologies I Use
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,flask,html,css,aws,git,github,mysql,vscode,jupyter" />
 </p>
@@ -62,9 +65,15 @@
 ---
 
 ## 🏆 GitHub Achievements
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mark007-R&theme=onestar&column=4&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mark007-R&theme=darkhub&column=4&margin-w=10&no-frame=true&no-bg=true" />
 </div>
 
 ---
 
+<div align="center">
+  
+### 💚 Thanks for visiting! Let's build something amazing together 💚
+
+</div>
