@@ -26,12 +26,12 @@
 ## 🚀 Connect With Me
 
 <p align="left">
-<a href="https://github.com/Mark007-R" target="_blank"><img height="30" src="https://skillicons.dev/icons?i=github"></a>
-<a href="https://www.linkedin.com/in/markrodrigues07" target="_blank"><img height="30" src="https://skillicons.dev/icons?i=linkedin"></a>
-<a href="mailto:markrodrigues2689@gmail.com" target="_blank"><img height="30" src="https://skillicons.dev/icons?i=gmail"></a>
-<a href="https://leetcode.com/Mark_Rodrigues" target="_blank"><img height="30" src="https://skillicons.dev/icons?i=leetcode"></a>
-<a href="https://www.hackerrank.com/mariarodrigues21" target="_blank"><img height="30" src="https://skillicons.dev/icons?i=hackerrank"></a>
-<a href="https://kaggle.com/markoliverrodrigues" target="_blank"><img height="30" src="https://skillicons.dev/icons?i=kaggle"></a>
+<a href="https://github.com/Mark007-R" target="_blank"><img height="30" src="https://skillicons.dev/icons?i=github"/></a>
+<a href="https://www.linkedin.com/in/markrodrigues07" target="_blank"><img height="30" src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="mailto:markrodrigues2689@gmail.com" target="_blank"><img height="30" src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="https://leetcode.com/Mark_Rodrigues" target="_blank"><img height="30" src="https://skillicons.dev/icons?i=leetcode"/></a>
+<a href="https://www.hackerrank.com/mariarodrigues21" target="_blank"><img height="30" src="https://skillicons.dev/icons?i=hackerrank"/></a>
+<a href="https://kaggle.com/markoliverrodrigues" target="_blank"><img height="30" src="https://skillicons.dev/icons?i=kaggle"/></a>
 </p>
 
 ---
