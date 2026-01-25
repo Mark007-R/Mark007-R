@@ -55,33 +55,15 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45"><br>Python
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="45"><br>JavaScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/html-icon.svg" width="45"><br>HTML
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/css-icon.svg" width="45"><br>CSS
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/flask-icon.svg" width="45"><br>Flask
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45"><br>SQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/tensorflow-icon.svg" width="45"><br>TensorFlow
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="45"><br>GitHub
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/vscode-icon.svg" width="45"><br>VS Code
-    </td>
+    <td align="center" width="90"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="45"><br>Python</td>
+    <td align="center" width="90"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="45"><br>JavaScript</td>
+    <td align="center"><img src="https://techicons.dev/icons/html.svg" width="45"><br>HTML</td>
+    <td align="center"><img src="https://techicons.dev/icons/css.svg" width="45"><br>CSS</td>
+    <td align="center"><img src="https://techicons.dev/icons/flask.svg" width="45"><br>Flask</td>
+    <td align="center"><img src="https://techicons.dev/icons/mysql.svg" width="45"><br>SQL</td>
+    <td align="center"><img src="https://techicons.dev/icons/tensorflow.svg" width="45"><br>TensorFlow</td>
+    <td align="center"><img src="https://techicons.dev/icons/vscode.svg" width="45"><br>VS Code</td>
+    <td align="center" width="90"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="45"><br>GitHub</td>
   </tr>
 </table>
 
