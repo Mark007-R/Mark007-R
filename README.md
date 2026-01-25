@@ -54,8 +54,8 @@
 ## Tools & Technologies I Use
 
 <table align="center">
+  <!-- Row 1 -->
   <tr>
-    <!-- skillicons.dev -->
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python
     </td>
@@ -74,6 +74,10 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>SQL
     </td>
+  </tr>
+
+  <!-- Row 2 -->
+  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=tensorflow" width="45"/><br>TensorFlow
     </td>
@@ -86,13 +90,16 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=vscode" width="45"/><br>VS Code
     </td>
-    <!-- markdown-badges fallback -->
     <td align="center" width="90">
       <img src="https://img.shields.io/badge/Milvus-000000?style=flat&logo=milvus&logoColor=white"/><br>Milvus
     </td>
     <td align="center" width="90">
       <img src="https://img.shields.io/badge/FAISS-000000?style=flat"/><br>FAISS
     </td>
+  </tr>
+
+  <!-- Row 3 -->
+  <tr>
     <td align="center" width="90">
       <img src="https://img.shields.io/badge/ChromaDB-000000?style=flat"/><br>ChromaDB
     </td>
@@ -111,6 +118,10 @@
     <td align="center" width="90">
       <img src="https://img.shields.io/badge/LightningAI-000000?style=flat&logo=lightning&logoColor=white"/><br>Lightning AI
     </td>
+  </tr>
+
+  <!-- Row 4 -->
+  <tr>
     <td align="center" width="90">
       <img src="https://img.shields.io/badge/ChatGPT-000000?style=flat&logo=openai&logoColor=white"/><br>ChatGPT
     </td>
@@ -120,6 +131,9 @@
     <td align="center" width="90">
       <img src="https://img.shields.io/badge/Cursor-000000?style=flat"/><br>Cursor
     </td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
