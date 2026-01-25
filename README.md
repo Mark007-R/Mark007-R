@@ -55,17 +55,74 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="90"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="45"><br>Python</td>
-    <td align="center" width="90"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="45"><br>JavaScript</td>
-    <td align="center"><img src="https://techicons.dev/icons/html.svg" width="45"><br>HTML</td>
-    <td align="center"><img src="https://techicons.dev/icons/css.svg" width="45"><br>CSS</td>
-    <td align="center"><img src="https://techicons.dev/icons/flask.svg" width="45"><br>Flask</td>
-    <td align="center"><img src="https://techicons.dev/icons/mysql.svg" width="45"><br>SQL</td>
-    <td align="center"><img src="https://techicons.dev/icons/tensorflow.svg" width="45"><br>TensorFlow</td>
-    <td align="center"><img src="https://techicons.dev/icons/vscode.svg" width="45"><br>VS Code</td>
-    <td align="center" width="90"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="45"><br>GitHub</td>
+    <!-- skillicons.dev -->
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=flask" width="45"/><br>Flask
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>SQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="45"/><br>TensorFlow
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=huggingface" width="45"/><br>HuggingFace
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=github" width="45"/><br>GitHub
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vscode" width="45"/><br>VS Code
+    </td>
+    <!-- markdown-badges fallback -->
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/Milvus-000000?style=flat&logo=milvus&logoColor=white"/><br>Milvus
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/FAISS-000000?style=flat"/><br>FAISS
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/ChromaDB-000000?style=flat"/><br>ChromaDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/Qdrant-000000?style=flat&logo=qdrant&logoColor=white"/><br>Qdrant
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/Weaviate-000000?style=flat&logo=weaviate&logoColor=white"/><br>Weaviate
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/LLaMA-000000?style=flat"/><br>LLaMA
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/LangChain-000000?style=flat"/><br>LangChain
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/LightningAI-000000?style=flat&logo=lightning&logoColor=white"/><br>Lightning AI
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/ChatGPT-000000?style=flat&logo=openai&logoColor=white"/><br>ChatGPT
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/Claude-000000?style=flat"/><br>Claude
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/Cursor-000000?style=flat"/><br>Cursor
+    </td>
   </tr>
 </table>
+
 
 ## GitHub Achievements
 
