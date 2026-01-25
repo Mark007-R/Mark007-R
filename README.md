@@ -55,32 +55,77 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="45"/><br>Java</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=javascript" width="45"/><br>JavaScript</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=flask" width="45"/><br>Flask</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>SQL</td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS
+    </td>
 
-    <td align="center" width="90"><img src="https://avatars.githubusercontent.com/u/10267767?s=200&v=4" width="45"/><br>Milvus</td>
-    <td align="center" width="90"><img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/docs/img/faiss_logo.png" width="45"/><br>FAISS</td>
-    <td align="center" width="90"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="45"/><br>ChromaDB</td>
-    <td align="center" width="90"><img src="https://avatars.githubusercontent.com/u/125843463?s=200&v=4" width="45"/><br>Qdrant</td>
-    <td align="center" width="90"><img src="https://avatars.githubusercontent.com/u/115503432?s=200&v=4" width="45"/><br>Weaviate</td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=flask" width="45"/><br>Flask
+    </td>
 
-    <td align="center" width="90"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45"/><br>HuggingFace</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tensorflow" width="45"/><br>TensorFlow</td>
-    <td align="center" width="90"><img src="https://raw.githubusercontent.com/meta-llama/llama/main/docs/logo.svg" width="45"/><br>LLaMA</td>
-    <td align="center" width="90"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="45"/><br>LangChain</td>
-    <td align="center" width="90"><img src="https://avatars.githubusercontent.com/u/133196310?s=200&v=4" width="45"/><br>Lightning AI</td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>SQL
+    </td>
 
-    <td align="center" width="90"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="45"/><br>ChatGPT</td>
-    <td align="center" width="90"><img src="https://avatars.githubusercontent.com/u/4975968?s=200&v=4" width="45"/><br>Claude</td>
+    <td align="center" width="90">
+      <img src="https://avatars.githubusercontent.com/u/10267767?s=200&v=4" width="45"/><br>Milvus
+    </td>
 
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="45"/><br>GitHub</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="45"/><br>VS Code</td>
-    <td align="center" width="90"><img src="https://avatars.githubusercontent.com/u/151005591?s=200&v=4" width="45"/><br>Cursor</td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/docs/img/faiss_logo.png" width="45"/><br>FAISS
+    </td>
+
+    <td align="center" width="90">
+      <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="45"/><br>ChromaDB
+    </td>
+
+    <td align="center" width="90">
+      <img src="https://avatars.githubusercontent.com/u/125843463?s=200&v=4" width="45"/><br>Qdrant
+    </td>
+
+    <td align="center" width="90">
+      <img src="https://avatars.githubusercontent.com/u/115503432?s=200&v=4" width="45"/><br>Weaviate
+    </td>
+
+    <td align="center" width="90">
+      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45"/><br>HuggingFace
+    </td>
+
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="45"/><br>TensorFlow
+    </td>
+
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/meta-llama/llama/main/docs/logo.svg" width="45"/><br>LLaMA
+    </td>
+
+    <td align="center" width="90">
+      <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="45"/><br>LangChain
+    </td>
+
+    <td align="center" width="90">
+      <img src="https://avatars.githubusercontent.com/u/133196310?s=200&v=4" width="45"/><br>Lightning AI
+    </td>
+
+    <td align="center" width="90">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="45"/><br>ChatGPT
+    </td>
+
+    <td align="center" width="90">
+      <img src="https://avatars.githubusercontent.com/u/4975968?s=200&v=4" width="45"/><br>Claude
+    </td>
+
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=github" width="45"/><br>GitHub
+    </td>
+
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vscode" width="45"/><br>VS Code
+    </td>
+
+    <td align="center" width="90">
+      <img src="https://avatars.githubusercontent.com/u/151005591?s=200&v=4" width="45"/><br>Cursor
+    </td>
   </tr>
 </table>
 
