@@ -52,6 +52,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mark007-R&bg_color=191414&color=1DB954&line=1DB954&point=FFFFFF&area=true&hide_border=true&area_color=1DB954" width="100%">
 
 ## Tools & Technologies I Use
+
 <table align="center">
   <!-- Languages -->
   <tr>
@@ -87,13 +88,33 @@
       <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" />
       <br>SQL
     </td>
+  </tr>
+
+  <!-- Vector Databases -->
+  <tr>
     <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45" height="45" />
-      <br>Vector DB
+      <img src="https://avatars.githubusercontent.com/u/10267767?s=200&v=4" width="45" height="45" />
+      <br>Milvus
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/docs/img/faiss_logo.png" width="45" height="45" />
+      <br>FAISS
+    </td>
+    <td align="center" width="90">
+      <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="45" height="45" />
+      <br>ChromaDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://avatars.githubusercontent.com/u/125843463?s=200&v=4" width="45" height="45" />
+      <br>Qdrant
+    </td>
+    <td align="center" width="90">
+      <img src="https://avatars.githubusercontent.com/u/115503432?s=200&v=4" width="45" height="45" />
+      <br>Weaviate
     </td>
   </tr>
 
-  <!-- AI / LLM -->
+  <!-- AI / LLM Ecosystem -->
   <tr>
     <td align="center" width="90">
       <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" height="45" />
@@ -111,8 +132,41 @@
       <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="45" height="45" />
       <br>LangChain
     </td>
+    <td align="center" width="90">
+      <img src="https://avatars.githubusercontent.com/u/133196310?s=200&v=4" width="45" height="45" />
+      <br>Lightning AI
+    </td>
+  </tr>
+
+  <!-- LLM Platforms -->
+  <tr>
+    <td align="center" width="90">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="45" height="45" />
+      <br>ChatGPT
+    </td>
+    <td align="center" width="90">
+      <img src="https://avatars.githubusercontent.com/u/4975968?s=200&v=4" width="45" height="45" />
+      <br>Claude
+    </td>
+  </tr>
+
+  <!-- Dev Tools -->
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=github" width="45" height="45" />
+      <br>GitHub
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" />
+      <br>VS Code
+    </td>
+    <td align="center" width="90">
+      <img src="https://avatars.githubusercontent.com/u/151005591?s=200&v=4" width="45" height="45" />
+      <br>Cursor
+    </td>
   </tr>
 </table>
+
 
 ## GitHub Achievements
 
