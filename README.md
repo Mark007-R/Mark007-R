@@ -23,8 +23,6 @@
   </tr>
 </table>
 
----
-
 ## 🔗 Connect With Me
 
 <p align="center">
@@ -35,8 +33,6 @@
   <a href="https://www.hackerrank.com/mariarodrigues21"><img height="35" src="https://skillicons.dev/icons?i=hackerrank"/></a>
   <a href="https://kaggle.com/markoliverrodrigues"><img height="35" src="https://skillicons.dev/icons?i=kaggle"/></a>
 </p>
-
----
 
 ## 📊 GitHub Stats
 
@@ -49,13 +45,9 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark007-R&layout=compact&hide=jupyter%20notebook&theme=dark&hide_border=true&bg_color=191414&title_color=1DB954&text_color=FFFFFF"/>
 </p>
 
----
-
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mark007-R&bg_color=191414&color=1DB954&line=1DB954&point=FFFFFF&area=true&hide_border=true&area_color=1DB954" width="100%"/>
-
----
 
 ## 🛠️ Tools & Technologies
 
@@ -91,14 +83,10 @@
   </tr>
 </table>
 
----
-
 ## 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mark007-R&theme=darkhub&column=4&margin-w=10&no-frame=true&no-bg=true"/>
 </p>
 
----
-
-<h3 align="center">Thanks for visiting! Let’s build something amazing together 💚</h3>
+<h3 align="center">Thanks for visiting! Let’s build something amazing together </h3>
