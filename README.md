@@ -61,9 +61,92 @@
 
 ## 🛠️ Tools & Technologies I Use
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,flask,html,css,aws,git,github,mysql,vscode,jupyter" />
-</p>
+<table align="center">
+  <!-- Languages -->
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=python" width="45" height="45" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" />
+      <br>C++
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" />
+      <br>HTML
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" />
+      <br>CSS
+    </td>
+  </tr>
+
+  <!-- Backend / Frameworks -->
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=flask" width="45" height="45" />
+      <br>Flask
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=django" width="45" height="45" />
+      <br>Django
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" />
+      <br>Node.js
+    </td>
+  </tr>
+
+  <!-- Databases -->
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" />
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" />
+      <br>PostgreSQL
+    </td>
+  </tr>
+
+  <!-- DevOps / Tools -->
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" />
+      <br>AWS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" />
+      <br>Docker
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" />
+      <br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=github" width="45" height="45" />
+      <br>GitHub
+    </td>
+  </tr>
+
+  <!-- Data / IDE -->
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=jupyter" width="45" height="45" />
+      <br>Jupyter
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" />
+      <br>VS Code
+    </td>
+  </tr>
+</table>
+
 
 ---
 
