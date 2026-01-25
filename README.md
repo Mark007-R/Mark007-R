@@ -52,7 +52,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mark007-R&bg_color=191414&color=1DB954&line=1DB954&point=FFFFFF&area=true&hide_border=true&area_color=1DB954" width="100%">
 
 ## Tools & Technologies I Use
-
 <table align="center">
   <!-- Languages -->
   <tr>
@@ -61,8 +60,12 @@
       <br>Python
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" />
-      <br>C++
+      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" />
+      <br>Java
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=javascript" width="45" height="45" />
+      <br>JavaScript
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=html" width="45" height="45" />
@@ -74,67 +77,39 @@
     </td>
   </tr>
 
-  <!-- Backend / Frameworks -->
+  <!-- Backend / Data -->
   <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=flask" width="45" height="45" />
       <br>Flask
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=django" width="45" height="45" />
-      <br>Django
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" />
-      <br>FastAPI
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" />
-      <br>Node.js
-    </td>
-  </tr>
-
-  <!-- Databases -->
-  <tr>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" />
-      <br>MySQL
+      <br>SQL
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" />
-      <br>PostgreSQL
-    </td>
-  </tr>
-
-  <!-- DevOps / Tools -->
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" />
-      <br>AWS
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" />
-      <br>Docker
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" />
-      <br>Git
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=github" width="45" height="45" />
-      <br>GitHub
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45" height="45" />
+      <br>Vector DB
     </td>
   </tr>
 
-  <!-- Data / IDE -->
+  <!-- AI / LLM -->
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=jupyter" width="45" height="45" />
-      <br>Jupyter
+      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" height="45" />
+      <br>HuggingFace
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" />
-      <br>VS Code
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/meta-llama/llama/main/docs/logo.svg" width="45" height="45" />
+      <br>LLaMA
+    </td>
+    <td align="center" width="90">
+      <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="45" height="45" />
+      <br>LangChain
     </td>
   </tr>
 </table>
