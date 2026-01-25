@@ -21,9 +21,7 @@
 
 <br>
 
----
-
-## 🚀 Connect With Me
+## Connect With Me
 
 <p align="left">
 <a href="https://github.com/Mark007-R" target="_blank"><img height="30" src="https://skillicons.dev/icons?i=github"/></a>
@@ -34,9 +32,7 @@
 <a href="https://kaggle.com/markoliverrodrigues" target="_blank"><img height="30" src="https://skillicons.dev/icons?i=kaggle"/></a>
 </p>
 
----
-
-## ⚡ GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -51,15 +47,11 @@
 
 </div>
 
----
-
-## 📊 Contribution Graph
+## Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mark007-R&bg_color=191414&color=1DB954&line=1DB954&point=FFFFFF&area=true&hide_border=true&area_color=1DB954" width="100%">
 
----
-
-## 🛠️ Tools & Technologies I Use
+## Tools & Technologies I Use
 
 <table align="center">
   <!-- Languages -->
@@ -147,19 +139,14 @@
   </tr>
 </table>
 
-
----
-
-## 🏆 GitHub Achievements
+## GitHub Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mark007-R&theme=darkhub&column=4&margin-w=10&no-frame=true&no-bg=true" />
 </div>
 
----
-
 <div align="center">
   
-### 💚 Thanks for visiting! Let's build something amazing together 💚
+### Thanks for visiting! Let's build something amazing together 💚
 
 </div>
