@@ -11,10 +11,9 @@
   <tr>
     <td width="65%">
       <p>
-        🚀 <b>Data Science Enthusiast</b> passionate about building intelligent, scalable applications — from
+        <b>Data Science Enthusiast</b> passionate about building intelligent, scalable applications — from
         <b>AI Agents</b> and <b>RAG systems</b> to <b>finance dashboards</b>, <b>stock predictors</b>, and <b>NLP projects</b>.
-        <br><br>
-        💡 I enjoy transforming data into real-world impact and continuously learning modern AI tooling.
+        I enjoy transforming data into real-world impact and continuously learning modern AI tooling.
       </p>
     </td>
     <td width="35%" align="center">
