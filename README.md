@@ -22,7 +22,7 @@
   </tr>
 </table>
 
-## 🔗 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://github.com/Mark007-R"><img height="35" src="https://skillicons.dev/icons?i=github"/></a>
@@ -33,7 +33,7 @@
   <a href="https://kaggle.com/markoliverrodrigues"><img height="35" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 </p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mark007-R&show_icons=true&theme=dark&hide_border=true&bg_color=191414&title_color=1DB954&icon_color=1DB954&text_color=FFFFFF"/>
@@ -44,11 +44,11 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark007-R&layout=compact&hide=jupyter%20notebook&theme=dark&hide_border=true&bg_color=191414&title_color=1DB954&text_color=FFFFFF"/>
 </p>
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mark007-R&bg_color=191414&color=1DB954&line=1DB954&point=FFFFFF&area=true&hide_border=true&area_color=1DB954" width="100%"/>
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 <table align="center">
   <tr>
@@ -157,7 +157,7 @@
   </tr>
 </table>
 
-## 🏆 GitHub Achievements
+## GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mark007-R&theme=darkhub&column=4&margin-w=10&no-frame=true&no-bg=true"/>
