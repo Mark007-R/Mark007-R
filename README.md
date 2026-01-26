@@ -28,10 +28,10 @@
 <p align="center">
   <a href="https://github.com/Mark007-R"><img height="35" src="https://skillicons.dev/icons?i=github"/></a>
   <a href="https://www.linkedin.com/in/markrodrigues07"><img height="35" src="https://skillicons.dev/icons?i=linkedin"/></a>
-  <a href="mailto:markrodrigues2689@gmail.com"><img height="35" src="https://skillicons.dev/icons?i=gmail"/></a>
-  <a href="https://leetcode.com/Mark_Rodrigues"><img height="35" src="https://skillicons.dev/icons?i=leetcode"/></a>
-  <a href="https://www.hackerrank.com/mariarodrigues21"><img height="35" src="https://skillicons.dev/icons?i=hackerrank"/></a>
-  <a href="https://kaggle.com/markoliverrodrigues"><img height="35" src="https://skillicons.dev/icons?i=kaggle"/></a>
+  <a href="mailto:markrodrigues2689@gmail.com"><img height="35" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/Mark_Rodrigues"><img height="35" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.hackerrank.com/mariarodrigues21"><img height="35" src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/></a>
+  <a href="https://kaggle.com/markoliverrodrigues"><img height="35" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 </p>
 
 ## 📊 GitHub Stats
@@ -53,33 +53,108 @@
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=flask" width="45"/><br>Flask</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>SQL</td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML"/>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS"/>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask"/>
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/>
+      <br>MySQL
+    </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="45"/><br>TensorFlow</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=huggingface" width="45"/><br>HuggingFace</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="45"/><br>GitHub</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="45"/><br>VS Code</td>
-    <td align="center"><img src="https://img.shields.io/badge/Milvus-000000?style=flat&logo=milvus&logoColor=white"/><br>Milvus</td>
-    <td align="center"><img src="https://img.shields.io/badge/FAISS-000000?style=flat"/><br>FAISS</td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow"/>
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch"/>
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/>
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/>
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
+      <br>NumPy
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
+      <br>Pandas
+    </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/ChromaDB-000000?style=flat"/><br>ChromaDB</td>
-    <td align="center"><img src="https://img.shields.io/badge/Qdrant-000000?style=flat&logo=qdrant&logoColor=white"/><br>Qdrant</td>
-    <td align="center"><img src="https://img.shields.io/badge/Weaviate-000000?style=flat&logo=weaviate&logoColor=white"/><br>Weaviate</td>
-    <td align="center"><img src="https://img.shields.io/badge/LLaMA-000000?style=flat"/><br>LLaMA</td>
-    <td align="center"><img src="https://img.shields.io/badge/LangChain-000000?style=flat"/><br>LangChain</td>
-    <td align="center"><img src="https://img.shields.io/badge/LightningAI-000000?style=flat&logo=lightning&logoColor=white"/><br>Lightning AI</td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white" alt="Milvus"/>
+      <br>Milvus
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS"/>
+      <br>FAISS
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/ChromaDB-FF6584?style=for-the-badge&logo=chromadb&logoColor=white" alt="ChromaDB"/>
+      <br>ChromaDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant"/>
+      <br>Qdrant
+    </td>
+    <td align="center" width="96">
+      <img src="https://weaviate.io/img/site/weaviate-logo-light.png" width="48" height="48" alt="Weaviate"/>
+      <br>Weaviate
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/>
+      <br>Docker
+    </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/ChatGPT-000000?style=flat&logo=openai&logoColor=white"/><br>ChatGPT</td>
-    <td align="center"><img src="https://img.shields.io/badge/Claude-000000?style=flat"/><br>Claude</td>
-    <td align="center"><img src="https://img.shields.io/badge/Cursor-000000?style=flat"/><br>Cursor</td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/meta/0467DF" width="48" height="48" alt="LLaMA"/>
+      <br>LLaMA
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangChain"/>
+      <br>LangChain
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI"/>
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png" width="48" height="48" alt="OpenAI"/>
+      <br>OpenAI
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-learn"/>
+      <br>Scikit-learn
+    </td>
   </tr>
 </table>
 
@@ -89,4 +164,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Mark007-R&theme=darkhub&column=4&margin-w=10&no-frame=true&no-bg=true"/>
 </p>
 
-<h3 align="center">Thanks for visiting! Let’s build something amazing together </h3>
+<h3 align="center">Thanks for visiting! Let's build something amazing together 🚀</h3>
