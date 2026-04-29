@@ -161,7 +161,6 @@
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark007-R&layout=compact&hide=jupyter%20notebook&theme=radical&hide_border=true&bg_color=0D1117&title_color=1DB954&text_color=C9D1D9&langs_count=8" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mark007-R&theme=radical&hide_border=true&bg_color=0D1117&title_color=1DB954&text_color=C9D1D9" />
 </div>
 
 ---
@@ -175,36 +174,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mark007-R&bg_color=0D1117&color=1DB954&line=1DB954&point=FFFFFF&area=true&hide_border=true&area_color=1DB95430&custom_title=Mark's%20Contribution%20Graph" width="100%"/>
 </div>
 
-<!-- Snake Animation (requires GitHub Action: Platane/snk) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Mark007-R/Mark007-R/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
-
----
-
-<!-- ============================================ -->
-<!--             FEATURED PROJECTS                -->
-<!-- ============================================ -->
-<h2 align="center">Featured Projects</h2>
-
-<div align="center">
-  <a href="https://github.com/Mark007-R">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mark007-R&repo=Visual-Product-Search-Engine&theme=radical&hide_border=true&bg_color=0D1117&title_color=1DB954&icon_color=1DB954&text_color=C9D1D9" />
-  </a>
-  <a href="https://github.com/Mark007-R">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mark007-R&repo=RAG-Pipeline-Optimizer&theme=radical&hide_border=true&bg_color=0D1117&title_color=1DB954&icon_color=1DB954&text_color=C9D1D9" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Mark007-R">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mark007-R&repo=AI-Agent-Failure-Predictor&theme=radical&hide_border=true&bg_color=0D1117&title_color=1DB954&icon_color=1DB954&text_color=C9D1D9" />
-  </a>
-  <a href="https://github.com/Mark007-R">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mark007-R&repo=Fraud-Detection-System&theme=radical&hide_border=true&bg_color=0D1117&title_color=1DB954&icon_color=1DB954&text_color=C9D1D9" />
-  </a>
-</div>
-
 ---
 
 <!-- ============================================ -->
@@ -214,15 +183,6 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mark007-R&theme=radical&column=7&margin-w=8&margin-h=8&no-frame=true&no-bg=true" />
-</div>
-
----
-
-<!-- ============================================ -->
-<!--             RANDOM DEV QUOTE                 -->
-<!-- ============================================ -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=false" />
 </div>
 
 ---
