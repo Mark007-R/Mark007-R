@@ -1,22 +1,13 @@
-<!-- ============================================ -->
-<!--              HEADER BANNER                   -->
-<!-- ============================================ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1DB954,100:0D1117&height=260&section=header&text=Mark%20Rodrigues&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%E2%80%A2%20AI%20Agents%20%E2%80%A2%20Machine%20Learning&descSize=18&descAlignY=58&descColor=E6E6E6" />
 </div>
 
-<!-- ============================================ -->
-<!--             TYPING ANIMATION                 -->
-<!-- ============================================ -->
 <div align="center">
   <a href="https://github.com/Mark007-R">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=1DB954&center=true&vCenter=true&width=720&lines=Data+Science+Enthusiast;AI+%26+Machine+Learning+Engineer;Building+RAG+%26+Agentic+Systems;Turning+Data+Into+Real-World+Impact" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- ============================================ -->
-<!--             PROFILE METRICS                  -->
-<!-- ============================================ -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Mark007-R&label=PROFILE+VIEWS&color=1DB954&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/Mark007-R?label=FOLLOWERS&style=for-the-badge&color=1DB954&labelColor=0D1117" />
@@ -25,9 +16,6 @@
 
 <br/>
 
-<!-- ============================================ -->
-<!--                ABOUT ME                      -->
-<!-- ============================================ -->
 <table align="center">
   <tr>
     <td width="60%" valign="top">
@@ -42,7 +30,6 @@
         <li>Passionate about <b>turning raw data into decisions</b></li>
         <li>Always experimenting with the latest in <b>AI tooling</b></li>
         <li>Open to collaborating on <b>ML / AI / Data</b> projects</li>
-        <li>Reach me at <b>markrodrigues2689@gmail.com</b></li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -53,9 +40,6 @@
 
 ---
 
-<!-- ============================================ -->
-<!--               CONNECT WITH ME                -->
-<!-- ============================================ -->
 <h2 align="center">Connect With Me</h2>
 
 <p align="center">
@@ -81,9 +65,6 @@
 
 ---
 
-<!-- ============================================ -->
-<!--              TECH STACK                      -->
-<!-- ============================================ -->
 <h2 align="center">Tech Stack</h2>
 
 <div align="center">
@@ -149,9 +130,6 @@
 
 ---
 
-<!-- ============================================ -->
-<!--             GITHUB STATISTICS                -->
-<!-- ============================================ -->
 <h2 align="center">GitHub Statistics</h2>
 
 <div align="center">
@@ -165,9 +143,6 @@
 
 ---
 
-<!-- ============================================ -->
-<!--           CONTRIBUTION GRAPH                 -->
-<!-- ============================================ -->
 <h2 align="center">Contribution Activity</h2>
 
 <div align="center">
@@ -176,9 +151,6 @@
 
 ---
 
-<!-- ============================================ -->
-<!--           GITHUB ACHIEVEMENTS                -->
-<!-- ============================================ -->
 <h2 align="center">Achievements</h2>
 
 <div align="center">
@@ -187,9 +159,6 @@
 
 ---
 
-<!-- ============================================ -->
-<!--                 FOOTER                       -->
-<!-- ============================================ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1DB954,100:0D1117&height=140&section=footer&text=Let's%20Build%20Something%20Amazing&fontSize=22&fontColor=FFFFFF&fontAlignY=70&animation=fadeIn" />
 </div>
