@@ -28,11 +28,6 @@ Takes an architecture-diagram image and emits schema-valid JSON — every compon
 | [Document-QA-RAG](https://github.com/Mark007-R/Document-QA-RAG) | Production-ready RAG for PDF Q&A — Flask, FAISS, LangChain, Groq Llama 3 ([demo](https://iambatman07-ragleo.hf.space)) |
 | [Stock-Price-Forecaster](https://github.com/Mark007-R/Stock-Price-Forecaster) | LSTM stock prediction with honest walk-forward evaluation, live news, and sentiment analysis ([demo](https://iambatman07-stockai.hf.space)) |
 | [Code-Review-Agent](https://github.com/Mark007-R/Code-Review-Agent) | AI code review returning structured JSON findings with severity ratings and line-specific fixes ([demo](https://iambatman07-questagent.hf.space)) |
-| [AI-Personal-Finance-Manager](https://github.com/Mark007-R/AI-Personal-Finance-Manager) | Finance tracking with a document-AI bill scanner ([demo](https://iambatman07-fintrack.hf.space)) |
-| [Road-Safety-Analyzer](https://github.com/Mark007-R/Road-Safety-Analyzer) | India road-accident analytics: severity prediction, fatality forecasting, safer-route planning ([demo](https://iambatman07-saferouteanalyzer.hf.space)) |
-| [Cricket-Cover-Drive-Analyzer](https://github.com/Mark007-R/Cricket-Cover-Drive-Analyzer) | Real-time cover-drive biomechanics from video via MediaPipe pose estimation |
-| [Product-Recommendation-Engine](https://github.com/Mark007-R/Product-Recommendation-Engine) | Collaborative + content-based recommender with popularity fallback ([demo](https://iambatman07-shopsenseai.hf.space)) |
-| [Crypto-Sentiment-Analysis](https://github.com/Mark007-R/Crypto-Sentiment-Analysis) | How the Fear & Greed Index shapes trader performance, on historical Hyperliquid data |
 
 All repositories: [github.com/Mark007-R](https://github.com/Mark007-R?tab=repositories)
 
