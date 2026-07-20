@@ -15,6 +15,9 @@ Payment fraud detection where the real claim is MLOps discipline, not model qual
 **[Diagram-Structure-Extractor](https://github.com/Mark007-R/Diagram-Structure-Extractor)**
 Takes an architecture-diagram image and emits schema-valid JSON — every component, arrow, icon, and relationship. Strict-parseable output on 15 of 15 benchmark diagrams, because results are typed Pydantic models validated by construction rather than free-form LLM text. [Live API](https://iambatman07-diagramine.hf.space)
 
+**[Semantic-Movie-Recommender](https://github.com/Mark007-R/Semantic-Movie-Recommender)**
+Semantic + multimodal retrieval and personalized recommendation over a 9,826-movie TMDB catalog. It started as embedding search with zero evaluation; a 10-day upgrade added an offline eval harness aligned to MovieLens interactions, collaborative filtering, CLIP poster fusion, and Milvus/FAISS HNSW serving — so every claim has a measured NDCG behind it.
+
 **[Restaurant-Intelligence-Platform](https://github.com/Mark007-R/Restaurant-Intelligence-Platform)**
 Sentiment, complaint classification, and RAG chat over customer reviews. A 7-day sprint replaced two components that looked like ML but weren't, measured the replacements against real eval sets, and shipped the winners behind FastAPI + Redis + Docker without breaking a single existing call site. [Live demo](https://iambatman07-restoai.hf.space)
 
@@ -25,7 +28,6 @@ Upload a CSV or XLSX and get auto-generated charts, a written summary, and a cha
 
 | Project | What it does |
 | --- | --- |
-| [Semantic-Movie-Recommender](https://github.com/Mark007-R/Semantic-Movie-Recommender) | Semantic + multimodal recommendation over a 9,826-film TMDB catalog — transformer embeddings with Milvus/FAISS HNSW retrieval |
 | [Document-QA-RAG](https://github.com/Mark007-R/Document-QA-RAG) | Production-ready RAG for PDF Q&A — Flask, FAISS, LangChain, Groq Llama 3 ([demo](https://iambatman07-ragleo.hf.space)) |
 | [Code-Review-Agent](https://github.com/Mark007-R/Code-Review-Agent) | AI code review returning structured JSON findings with severity ratings and line-specific fixes ([demo](https://iambatman07-questagent.hf.space)) |
 | [AI-Personal-Finance-Manager](https://github.com/Mark007-R/AI-Personal-Finance-Manager) | Finance tracking with a document-AI bill scanner ([demo](https://iambatman07-fintrack.hf.space)) |
