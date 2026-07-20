@@ -1,6 +1,6 @@
 # Mark Rodrigues
 
-AI/ML engineer. I build multi-agent systems, RAG pipelines, and production ML — with a bias for honest evaluation: held-out sets the agents never see, temporal splits that kill inflated numbers, and claims backed by measurements.
+Junior AI Engineer @ ComplAIBridge. I build multi-agent systems, RAG pipelines, and production ML — with a bias for honest evaluation: held-out sets the agents never see, temporal splits that kill inflated numbers, and claims backed by measurements.
 
 [LinkedIn](https://www.linkedin.com/in/markrodrigues07) · [Portfolio](https://mark007-r.github.io) · [Kaggle](https://kaggle.com/markoliverrodrigues) · [LeetCode](https://leetcode.com/Mark_Rodrigues) · markrodrigues2689@gmail.com
 
