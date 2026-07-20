@@ -9,6 +9,9 @@ Junior AI Engineer @ ComplAIBridge. I build multi-agent systems, RAG pipelines, 
 **[CrewML](https://github.com/Mark007-R/CrewML)**
 An autonomous multi-agent ML engineering crew built on LangGraph. Give it a raw tabular dataset and a task; specialised agents profile the data, plan an approach, engineer features, train, critique, and report. Every run is scored against a held-out evaluation the agents never touch, so the crew can't grade its own homework.
 
+**[AI-Customer-Ops-Engine](https://github.com/Mark007-R/AI-Customer-Ops-Engine)**
+Production-grade infrastructure for customer-service AI agents in regulated industries: a persistent memory layer (`context_engine`) and a decision orchestrator that share one schema and one audit trail. Ships with a semantic cache, naive-vs-champion benchmarks, health-checked Docker services, and a unit-test suite — built audit-first because in regulated settings the trail matters as much as the answer.
+
 **[Fraud-Detection-MLOps](https://github.com/Mark007-R/Fraud-Detection-MLOps)**
 Payment fraud detection where the real claim is MLOps discipline, not model quality. An upgrade sprint found and fixed a data-leakage bug that had been inflating the headline AUC, then layered MLflow registry promotion/rollback, KS+PSI drift detection, auto-retrain, and Dask-deterministic feature engineering on top of a DVC pipeline. [Live demo](https://iambatman07-sentinel.hf.space)
 
