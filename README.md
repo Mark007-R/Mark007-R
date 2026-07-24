@@ -13,21 +13,21 @@ An autonomous multi-agent ML engineering crew built on LangGraph. Give it a raw 
 Production-grade infrastructure for customer-service AI agents in regulated industries: a persistent memory layer (`context_engine`) and a decision orchestrator that share one schema and one audit trail. Ships with a semantic cache, naive-vs-champion benchmarks, health-checked Docker services, and a unit-test suite — built audit-first because in regulated settings the trail matters as much as the answer.
 
 **[Fraud-Detection-MLOps](https://github.com/Mark007-R/Fraud-Detection-MLOps)**
-Payment fraud detection where the real claim is MLOps discipline, not model quality. An upgrade sprint found and fixed a data-leakage bug that had been inflating the headline AUC, then layered MLflow registry promotion/rollback, KS+PSI drift detection, auto-retrain, and Dask-deterministic feature engineering on top of a DVC pipeline. [Live demo](https://iambatman07-sentinel.hf.space)
+Payment fraud detection where the real claim is MLOps discipline, not model quality. An upgrade sprint found and fixed a data-leakage bug that had been inflating the headline AUC, then layered MLflow registry promotion/rollback, KS+PSI drift detection, auto-retrain, and Dask-deterministic feature engineering on top of a DVC pipeline. [Live demo](https://iambatman07-fraud-detection-mlops.hf.space)
 
-**[Diagram-Structure-Extractor](https://github.com/Mark007-R/Diagram-Structure-Extractor)**
-Takes an architecture-diagram image and emits schema-valid JSON — every component, arrow, icon, and relationship. Strict-parseable output on 15 of 15 benchmark diagrams, because results are typed Pydantic models validated by construction rather than free-form LLM text. [Live API](https://iambatman07-diagramine.hf.space)
+**[Semantic-Movie-Recommender](https://github.com/Mark007-R/Semantic-Movie-Recommender)**
+Semantic + multimodal recommendation over a 9,826-film TMDB catalog: transformer sentence embeddings fused with CLIP poster vectors, HNSW retrieval through Milvus/FAISS, and a MovieLens-aligned offline eval harness — so "better recommendations" is a measured claim, not a vibe. [Live demo](https://iambatman07-semantic-movie-recommender.hf.space)
 
 ## More projects
 
 | Project | What it does |
 | --- | --- |
-| [Semantic-Movie-Recommender](https://github.com/Mark007-R/Semantic-Movie-Recommender) | Semantic + multimodal recommendation over a 9,826-film TMDB catalog — transformer embeddings, CLIP poster fusion, Milvus/FAISS HNSW retrieval, and a MovieLens-aligned offline eval harness |
-| [Restaurant-Intelligence-Platform](https://github.com/Mark007-R/Restaurant-Intelligence-Platform) | Sentiment, complaint classification, and RAG chat over customer reviews — fake-ML components replaced with measured champions behind FastAPI + Redis + Docker ([demo](https://iambatman07-restoai.hf.space)) |
-| [AI-Data-Analyst](https://github.com/Mark007-R/AI-Data-Analyst) | Upload a CSV/XLSX and get auto charts, a written summary, and a chatbot that answers with real SQL through a custom MCP server — FastAPI + DuckDB + ECharts |
-| [Document-QA-RAG](https://github.com/Mark007-R/Document-QA-RAG) | Production-ready RAG for PDF Q&A — Flask, FAISS, LangChain, Groq Llama 3 ([demo](https://iambatman07-ragleo.hf.space)) |
-| [Stock-Price-Forecaster](https://github.com/Mark007-R/Stock-Price-Forecaster) | LSTM stock prediction with honest walk-forward evaluation, live news, and sentiment analysis ([demo](https://iambatman07-stockai.hf.space)) |
-| [Code-Review-Agent](https://github.com/Mark007-R/Code-Review-Agent) | AI code review returning structured JSON findings with severity ratings and line-specific fixes ([demo](https://iambatman07-questagent.hf.space)) |
+| [Diagram-Structure-Extractor](https://github.com/Mark007-R/Diagram-Structure-Extractor) | Turns architecture-diagram images into schema-valid JSON — every component, arrow, icon, and relationship, strict-parseable on 15 of 15 benchmark diagrams ([demo](https://iambatman07-diagram-structure-extractor.hf.space)) |
+| [Restaurant-Intelligence-Platform](https://github.com/Mark007-R/Restaurant-Intelligence-Platform) | Sentiment, complaint classification, and RAG chat over customer reviews — fake-ML components replaced with measured champions behind FastAPI + Redis + Docker |
+| [AI-Data-Analyst](https://github.com/Mark007-R/AI-Data-Analyst) | Upload a CSV/XLSX and get auto charts, a written summary, and a chatbot that answers with real SQL through a custom MCP server — FastAPI + DuckDB + ECharts ([demo](https://iambatman07-ai-data-analyst.hf.space)) |
+| [Document-QA-RAG](https://github.com/Mark007-R/Document-QA-RAG) | Production-ready RAG for PDF Q&A — Flask, FAISS, LangChain, Groq Llama 3 |
+| [Stock-Price-Forecaster](https://github.com/Mark007-R/Stock-Price-Forecaster) | LSTM stock prediction with honest walk-forward evaluation, live news, and sentiment analysis ([demo](https://iambatman07-stock-price-forecaster.hf.space)) |
+| [Code-Review-Agent](https://github.com/Mark007-R/Code-Review-Agent) | AI code review returning structured JSON findings with severity ratings and line-specific fixes ([demo](https://iambatman07-code-review-agent.hf.space)) |
 
 All repositories: [github.com/Mark007-R](https://github.com/Mark007-R?tab=repositories)
 
