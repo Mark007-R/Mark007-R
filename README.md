@@ -24,10 +24,10 @@ Semantic + multimodal recommendation over a 9,826-film TMDB catalog: transformer
 | --- | --- |
 | [Diagram-Structure-Extractor](https://github.com/Mark007-R/Diagram-Structure-Extractor) | Turns architecture-diagram images into schema-valid JSON — every component, arrow, icon, and relationship, strict-parseable on 15 of 15 benchmark diagrams ([demo](https://iambatman07-diagram-structure-extractor.hf.space)) |
 | [Restaurant-Intelligence-Platform](https://github.com/Mark007-R/Restaurant-Intelligence-Platform) | Sentiment, complaint classification, and RAG chat over customer reviews — fake-ML components replaced with measured champions behind FastAPI + Redis + Docker |
-| [AI-Data-Analyst](https://github.com/Mark007-R/AI-Data-Analyst) | Upload a CSV/XLSX and get auto charts, a written summary, and a chatbot that answers with real SQL through a custom MCP server — FastAPI + DuckDB + ECharts ([demo](https://iambatman07-ai-data-analyst.hf.space)) |
+| [AI-Data-Analyst](https://github.com/Mark007-R/AI-Data-Analyst) | Upload a CSV/XLSX and get auto charts, a written summary, and a chatbot that answers with real SQL through a custom MCP server — FastAPI + DuckDB + ECharts |
 | [Document-QA-RAG](https://github.com/Mark007-R/Document-QA-RAG) | Production-ready RAG for PDF Q&A — Flask, FAISS, LangChain, Groq Llama 3 |
 | [Stock-Price-Forecaster](https://github.com/Mark007-R/Stock-Price-Forecaster) | LSTM stock prediction with honest walk-forward evaluation, live news, and sentiment analysis ([demo](https://iambatman07-stock-price-forecaster.hf.space)) |
-| [Code-Review-Agent](https://github.com/Mark007-R/Code-Review-Agent) | AI code review returning structured JSON findings with severity ratings and line-specific fixes ([demo](https://iambatman07-code-review-agent.hf.space)) |
+| [Code-Review-Agent](https://github.com/Mark007-R/Code-Review-Agent) | AI code review returning structured JSON findings with severity ratings and line-specific fixes |
 
 All repositories: [github.com/Mark007-R](https://github.com/Mark007-R?tab=repositories)
 
