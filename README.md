@@ -1,8 +1,13 @@
 # Mark Rodrigues
 
-AI Engineer @ ComplAIBridge. I build multi-agent systems, RAG pipelines, and production ML — with a bias for honest evaluation: held-out sets the agents never see, temporal splits that kill inflated numbers, and claims backed by measurements.
+AI Engineer @ ComplAIBridge. I build multi-agent systems, MCP tooling, RAG pipelines, and production ML — with a bias for honest evaluation: held-out sets the agents never see, temporal splits that kill inflated numbers, and claims backed by measurements.
 
 [LinkedIn](https://www.linkedin.com/in/markrodrigues07) · [Portfolio](https://mark007-r.github.io) · [Kaggle](https://kaggle.com/markoliverrodrigues) · [LeetCode](https://leetcode.com/Mark_Rodrigues) · markrodrigues2689@gmail.com
+
+## Open-source library
+
+**[Easy-MCP](https://github.com/Mark007-R/Easy-MCP)** · `pip install easy-mcp-kit` · [PyPI](https://pypi.org/project/easy-mcp-kit/)
+FastAPI for MCP servers: write a typed Python function, add a decorator, and any MCP client can call it. Strict JSON Schema from type hints, API-key auth with per-tool scopes, rate limits, timeouts, and sanitized errors are on by default, over Streamable HTTP, SSE, or stdio. Ships ready-made GitHub, Postgres, SQLite, MySQL, and MongoDB connectors, and cancelling a call stops the query on the database itself. v0.3.1 on PyPI, 385 tests in CI. [Demo video](https://github.com/Mark007-R/Easy-MCP/blob/main/docs/Demo.mp4)
 
 ## Flagship work
 
@@ -22,15 +27,15 @@ Semantic + multimodal recommendation over a 9,826-film TMDB catalog: transformer
 
 | Project | What it does |
 | --- | --- |
+| [AI-Personal-Finance-Manager](https://github.com/Mark007-R/AI-Personal-Finance-Manager) | Scans receipts, categorises spending, flags anomalies and recurring charges, and forecasts cash flow behind a JWT-scoped FastAPI. Benchmarked against a frontier LLM: the cheap TF-IDF model ties it on known merchants but falls below a keyword baseline on unseen ones, so production keeps an LLM fallback ([live app](https://iambatman07-ai-personal-finance-manager.hf.space), create a free account to try it) |
 | [Diagram-Structure-Extractor](https://github.com/Mark007-R/Diagram-Structure-Extractor) | Turns architecture-diagram images into schema-valid JSON — every component, arrow, icon, and relationship, strict-parseable on 15 of 15 benchmark diagrams ([demo](https://iambatman07-diagram-structure-extractor.hf.space)) |
 | [Restaurant-Intelligence-Platform](https://github.com/Mark007-R/Restaurant-Intelligence-Platform) | Sentiment, complaint classification, and RAG chat over customer reviews — fake-ML components replaced with measured champions behind FastAPI + Redis + Docker |
 | [AI-Data-Analyst](https://github.com/Mark007-R/AI-Data-Analyst) | Upload a CSV/XLSX and get auto charts, a written summary, and a chatbot that answers with real SQL through a custom MCP server — FastAPI + DuckDB + ECharts |
 | [Document-QA-RAG](https://github.com/Mark007-R/Document-QA-RAG) | Production-ready RAG for PDF Q&A — Flask, FAISS, LangChain, Groq Llama 3 |
 | [Stock-Price-Forecaster](https://github.com/Mark007-R/Stock-Price-Forecaster) | LSTM stock prediction with honest walk-forward evaluation, live news, and sentiment analysis ([demo](https://iambatman07-stock-price-forecaster.hf.space)) |
-| [Code-Review-Agent](https://github.com/Mark007-R/Code-Review-Agent) | AI code review returning structured JSON findings with severity ratings and line-specific fixes |
 
 All repositories: [github.com/Mark007-R](https://github.com/Mark007-R?tab=repositories)
 
 ## Stack
 
-Python · PyTorch · TensorFlow · scikit-learn · XGBoost · LangChain / LangGraph · sentence-transformers · FAISS / Milvus / ChromaDB · FastAPI · Flask · Streamlit · MLflow · DVC · Docker · MySQL / PostgreSQL · GitHub Actions
+Python · PyTorch · TensorFlow · scikit-learn · XGBoost · LangChain / LangGraph · MCP · sentence-transformers · FAISS / Milvus / ChromaDB · FastAPI · Flask · Streamlit · MLflow · DVC · Docker · MySQL / PostgreSQL · GitHub Actions
