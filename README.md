@@ -21,7 +21,7 @@ Production-grade infrastructure for customer-service AI agents in regulated indu
 Payment fraud detection where the real claim is MLOps discipline, not model quality. An upgrade sprint found and fixed a data-leakage bug that had been inflating the headline AUC, then layered MLflow registry promotion/rollback, KS+PSI drift detection, auto-retrain, and Dask-deterministic feature engineering on top of a DVC pipeline. [Live demo](https://iambatman07-fraud-detection-mlops.hf.space)
 
 **[Semantic-Movie-Recommender](https://github.com/Mark007-R/Semantic-Movie-Recommender)**
-Semantic + multimodal recommendation over a 9,826-film TMDB catalog: transformer sentence embeddings fused with CLIP poster vectors, HNSW retrieval through Milvus/FAISS, and a MovieLens-aligned offline eval harness — so "better recommendations" is a measured claim, not a vibe. [Live demo](https://iambatman07-semantic-movie-recommender.hf.space)
+Semantic + multimodal recommendation over a 9,837-film TMDB catalog: transformer sentence embeddings fused with CLIP poster vectors, HNSW retrieval through Milvus/FAISS, and a MovieLens-aligned offline eval harness — so "better recommendations" is a measured claim, not a vibe. [Live demo](https://iambatman07-semantic-movie-recommender.hf.space)
 
 ## More projects
 
