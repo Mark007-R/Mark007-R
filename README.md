@@ -27,7 +27,7 @@ Semantic + multimodal recommendation over a 9,826-film TMDB catalog: transformer
 
 | Project | What it does |
 | --- | --- |
-| [AI-Personal-Finance-Manager](https://github.com/Mark007-R/AI-Personal-Finance-Manager) | Scans receipts, categorises spending, flags anomalies and recurring charges, and forecasts cash flow behind a JWT-scoped FastAPI. Benchmarked against a frontier LLM: the cheap TF-IDF model ties it on known merchants but falls below a keyword baseline on unseen ones, so production keeps an LLM fallback ([live app](https://iambatman07-ai-personal-finance-manager.hf.space), create a free account to try it) |
+| [AI-Personal-Finance-Manager](https://github.com/Mark007-R/AI-Personal-Finance-Manager) | Scans receipts, categorises spending, flags anomalies and recurring charges, and forecasts cash flow — each part benchmarked against a frontier LLM ([live app](https://iambatman07-ai-personal-finance-manager.hf.space)) |
 | [Diagram-Structure-Extractor](https://github.com/Mark007-R/Diagram-Structure-Extractor) | Turns architecture-diagram images into schema-valid JSON — every component, arrow, icon, and relationship, strict-parseable on 15 of 15 benchmark diagrams ([demo](https://iambatman07-diagram-structure-extractor.hf.space)) |
 | [Restaurant-Intelligence-Platform](https://github.com/Mark007-R/Restaurant-Intelligence-Platform) | Sentiment, complaint classification, and RAG chat over customer reviews — fake-ML components replaced with measured champions behind FastAPI + Redis + Docker |
 | [AI-Data-Analyst](https://github.com/Mark007-R/AI-Data-Analyst) | Upload a CSV/XLSX and get auto charts, a written summary, and a chatbot that answers with real SQL through a custom MCP server — FastAPI + DuckDB + ECharts |
